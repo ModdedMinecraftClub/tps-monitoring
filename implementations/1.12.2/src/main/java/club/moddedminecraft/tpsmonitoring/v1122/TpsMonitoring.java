@@ -4,7 +4,7 @@ import club.moddedminecraft.tpsmonitoring.core.TpsLibrary;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = TpsMonitoring.MODID, name = TpsMonitoring.NAME, version = TpsMonitoring.VERSION, serverSideOnly = true)
+@Mod(modid = TpsMonitoring.MODID, name = TpsMonitoring.NAME, version = TpsMonitoring.VERSION, serverSideOnly = true, acceptableRemoteVersions = "*")
 public class TpsMonitoring {
     public static final String MODID = "tpsmonitoring";
     public static final String NAME = "Tps Monitoring";
