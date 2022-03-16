@@ -19,7 +19,7 @@ import club.moddedminecraft.tpsmonitoring.core.TpsLibrary;
 import java.util.stream.Collectors;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod("examplemod")
+@Mod("tpsmonitoring")
 public class TpsMonitoring
 {
     // Directly reference a log4j logger.

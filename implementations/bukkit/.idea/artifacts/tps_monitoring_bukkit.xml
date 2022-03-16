@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="tps-monitoring-bukkit">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="tps-monitoring-bukkit.jar">
+      <element id="module-output" name="bukkit" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../tps-core/tps-core/build/libs/tps-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

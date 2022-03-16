@@ -1,0 +1,3 @@
+main: club.moddedminecraft.tpsmonitoring.bukkit.TpsMonitoring
+name: Tps Monitoring
+version: 1.0.0
